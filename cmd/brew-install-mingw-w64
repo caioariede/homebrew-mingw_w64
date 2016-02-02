@@ -57,7 +57,7 @@ __brew_install_mingw_w64() {
 
     brew install gcc49
     brew install gmp4 libmpc08 mpfr2 cloog018 isl011
-    brew install wget
+    # brew install wget
 
     #  mingw
 
